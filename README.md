@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="packages/docs/static/img/EC-Logo.png" alt="EmbeddedChat project logo" width="200">
+</p>
+
 <h1 align='center'>Embedded Chat: A staple in excellent customer service</h1>
 
 > **Fork status:** Fork of [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat). The existing project guide follows.
