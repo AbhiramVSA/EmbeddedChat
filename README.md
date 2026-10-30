@@ -1,4 +1,22 @@
+<p align="center">
+  <img src="packages/docs/static/img/EC-Logo.png" alt="EmbeddedChat project logo" width="200">
+</p>
+
 <h1 align='center'>Embedded Chat: A staple in excellent customer service</h1>
+
+> **Fork status:** Fork of [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat). The existing project guide follows.
+
+## Overview
+
+EmbeddedChat is a React component for embedding Rocket.Chat in a web app, with configurable login options and interface designs.
+
+## Navigation
+
+[Installation and usage](#installation-and-usage) · [Development](#development) · [References](#references) · [Contributors](#contributors)
+
+## Existing upstream guide
+
+The guide, project branding, and legal notices from the fork base remain below.
 
 ![image](https://github.com/RocketChat/EmbeddedChat/assets/78961432/574be6b4-d2f7-4bea-a7b1-4c6e840d8e22)
 
@@ -9,9 +27,7 @@ _EmbeddedChat is a full-stack React component designed to integrate Rocket.Chat 
 ![ec-demo-image](https://github.com/RocketChat/EmbeddedChat/assets/78961432/b85c7b8a-65e2-4a90-a843-f4072c942ac0)
 
 <div align='center' width='100%'>
-<a href="https://github.com/RocketChat/EmbeddedChat/graphs/contributors">
-<img src="https://open-source-assets.middlewarehq.com/svgs/RocketChat-EmbeddedChat-contributor-metrics-dark-widget.svg?caching=true"></img>
-</a>
+<a href="https://github.com/RocketChat/EmbeddedChat/graphs/contributors">View Rocket.Chat EmbeddedChat contributor metrics</a>
 </div>
 
 ## Try It Out 🚀
@@ -190,5 +206,5 @@ This environment offers a complete setup for developing and testing the `Embedde
 ### Contributors
 
 <a href="https://github.com/RocketChat/EmbeddedChat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RocketChat/EmbeddedChat" />
+  <img src="https://contrib.rocks/image?repo=RocketChat/EmbeddedChat" alt="Contributor avatars for Rocket.Chat EmbeddedChat" />
 </a>
