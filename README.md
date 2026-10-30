@@ -12,7 +12,7 @@ _EmbeddedChat is a full-stack React component designed to integrate Rocket.Chat 
 
 <div align='center' width='100%'>
 <a href="https://github.com/RocketChat/EmbeddedChat/graphs/contributors">
-<img src="https://open-source-assets.middlewarehq.com/svgs/RocketChat-EmbeddedChat-contributor-metrics-dark-widget.svg?caching=true"></img>
+<img src="https://open-source-assets.middlewarehq.com/svgs/RocketChat-EmbeddedChat-contributor-metrics-dark-widget.svg?caching=true" alt="Contribution metrics for the Rocket.Chat EmbeddedChat repository"></img>
 </a>
 </div>
 
@@ -192,5 +192,5 @@ This environment offers a complete setup for developing and testing the `Embedde
 ### Contributors
 
 <a href="https://github.com/RocketChat/EmbeddedChat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RocketChat/EmbeddedChat" />
+  <img src="https://contrib.rocks/image?repo=RocketChat/EmbeddedChat" alt="Contributor avatars for Rocket.Chat EmbeddedChat" />
 </a>
